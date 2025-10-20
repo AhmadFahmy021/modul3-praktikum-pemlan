@@ -8,7 +8,7 @@ This application is used to fulfill the practical requirements of module 3.
 
 ```bash
   git clone https://github.com/AhmadFahmy021/modul3-praktikum-pemlan
-  cd kode
+  cd modul3-praktikum-pemlan
 ```
 ## Lessons Learned
 
