@@ -7,8 +7,8 @@ This application is used to fulfill the practical requirements of module 3.
 ## Clone this aplication
 
 ```bash
-  git clone https://github.com/kode.git
-  cd kode
+  git clone https://github.com/AhmadFahmy021/modul3-praktikum-pemlan
+  cd modul3-praktikum-pemlan
 ```
 ## Lessons Learned
 
